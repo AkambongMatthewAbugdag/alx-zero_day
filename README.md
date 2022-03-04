@@ -1,2 +1,1 @@
-My name is Akambong Matthew Abugdag
-I am an explorer
+My first readme
